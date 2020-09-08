@@ -7,7 +7,8 @@ A Quasar Framework app
 yarn
 ```
 ### Create a sample vue template using
-```quasar create project_name
+```bash
+quasar create project_name
 ```
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
